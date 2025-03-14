@@ -62,4 +62,4 @@ void main() {
 // 1-2)
 // Too many positional arguments: 1 expected, but 3 found. 에러 발생
 // print(productName[i] '/' productPrice[i]); 을
-// print('${productName[i]} / ${productPrice[i]}'); 로 변경
+// print('${productName[i]} / ${productPrice[i]}'); 로 변경.
